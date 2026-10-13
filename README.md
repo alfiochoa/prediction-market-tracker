@@ -1,12 +1,14 @@
 # Prediction Market Tracker
 
-[![ci](https://github.com/alfiochoa/prediction-market-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/alfiochoa/prediction-market-tracker/actions/workflows/ci.yml)
+[![ci](https://github.com/alfiochoa/prediction-market-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/alfiochoa/prediction-market-tracker/actions/workflows/ci.yml) [![Live demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prediction-market-tracker.streamlit.app/)
 
 **A dashboard that turns a noisy prediction-market feed into a clear view: top active markets, who moved, and a weekly digest, with a data pipeline that keeps itself fresh.**
 
 > **Play-money prediction data, not forecasts or advice.** [Manifold Markets](https://manifold.markets) uses play money (MANA). This is reference/demo data for illustration. There are no trading features and nothing here is investment advice. Timestamps are shown in the UI.
 
-**Live demo:** _coming soon (Streamlit Community Cloud)_
+**Live demo:** https://prediction-market-tracker.streamlit.app/
+
+![Live demo screenshot](docs/live-demo.png)
 
 ![Dashboard](docs/screenshot.png)
 
