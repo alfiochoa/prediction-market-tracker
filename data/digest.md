@@ -1,6 +1,6 @@
 # What moved this week
 
-_Snapshot generated 2026-10-13 19:14 UTC._
+_Snapshot generated 2026-10-14 04:55 UTC._
 
 > Play-money prediction data from Manifold Markets (MANA, not real money). Reference/demo data only: not forecasts, not investment advice.
 
@@ -8,21 +8,21 @@ _Snapshot generated 2026-10-13 19:14 UTC._
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [Will Gemini 4 Argon be released publicly before October 15](https://manifold.markets/HumanClanker/will-gemini-4-argon-be-released-pub) | 98% | +31.5 pp | 22,714 |
-| [We get Gemini 4 Pro before GTA 6](https://manifold.markets/Laplace/we-get-gemini-4-pro-before-gta-6) | 99% | +31.1 pp | 3,300 |
-| [Will there be troops or federal agents at US voting booths in 2026 or 2028?](https://manifold.markets/Gen/will-there-be-pressure-by-troops-or) | 65% | +8.4 pp | 4,761 |
-| [Will Canada Post raise the cost of a domestic letter (30 g) to $1 CAD or more by end of 2027?](https://manifold.markets/missprediction/will-canada-post-raise-the-cost-of) | 99% | +4.1 pp | 1,058 |
-| [Will AIs beat human experts in question-answering on the GPQA benchmark before January 1st, 2027?](https://manifold.markets/MatthewBarnett/will-ais-beat-human-experts-in-ques) | 98% | +3.7 pp | 5,001 |
+| [Will Muse rank #1 in App Store (iPhone) on October 15th 2026](https://manifold.markets/Mochi/will-muse-rank-1-in-app-store-iphon) | 84% | +18.6 pp | 1,187 |
+| [All Millennium Prize Problems solved before 2030?](https://manifold.markets/SG/all-millennium-prize-problem-solved) | 33% | +7.1 pp | 611 |
+| [GPT-6.1+ Astra released in October?](https://manifold.markets/Bayesian/gpt61-astra-released-in-october) | 31% | +6.8 pp | 7,036 |
+| [US Average DIESEL Price Is $6.000 or more on Election Day 2026?](https://manifold.markets/Jack1/us-average-diesel-price-is-6000-or) | 74% | +5.0 pp | 1,266 |
+| [Will there be troops or federal agents at US voting booths in 2026 or 2028?](https://manifold.markets/Gen/will-there-be-pressure-by-troops-or) | 61% | +4.6 pp | 5,036 |
 
 ## Biggest fallers (7 days)
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [Will JACK outperform JILL in 2026?](https://manifold.markets/strutheo/will-jack-outperform-jill-in-2026) | 1% | -54.5 pp | 3,469 |
-| [Will the US enter a depression if the Democrats win the midterms?](https://manifold.markets/Gen/will-the-us-enter-a-depression-if-t) | 11% | -38.8 pp | 2,134 |
-| [Bitcoin $87,500 in October 2026?](https://manifold.markets/Jack1/bitcoin-87500-in-october-2026) | 57% | -24.3 pp | 1,576 |
-| [Will building datacenters in the US be much more difficult by mid-2029?](https://manifold.markets/JonasVollmer/will-building-datacenters-in-the-us) | 28% | -22.4 pp | 5,871 |
-| [Will Anthropic’s IPO S-1 be public by 16 October 2026?](https://manifold.markets/jim/will-anthropics-ipo-s1-be-public-by) | 8% | -16.5 pp | 4,853 |
+| [Bitcoin 100k before Election day?](https://manifold.markets/BillClintonBubba/bitcoin-100k-before-election-day) | 4% | -46.0 pp | 655 |
+| [Will the US enter a depression if the Democrats win the midterms?](https://manifold.markets/Gen/will-the-us-enter-a-depression-if-t) | 11% | -39.0 pp | 2,184 |
+| [Will Democrat Angie Nixon win Miami Dade County in the Florida Senate Election?](https://manifold.markets/Jack1/will-democrat-angie-nixon-win-miami) | 33% | -25.6 pp | 7,832 |
+| [Will building datacenters in the US be much more difficult by mid-2029?](https://manifold.markets/JonasVollmer/will-building-datacenters-in-the-us) | 28% | -21.9 pp | 3,684 |
+| [Will Trump livestream an execution?](https://manifold.markets/Velaris/will-trump-livestream-an-execution) | 29% | -20.7 pp | 3,355 |
 
 ---
 Data: Manifold Markets (https://manifold.markets), public API.
