@@ -1,6 +1,6 @@
 # What moved this week
 
-_Snapshot generated 2026-10-17 15:35 UTC._
+_Snapshot generated 2026-10-17 20:37 UTC._
 
 > Play-money prediction data from Manifold Markets (MANA, not real money). Reference/demo data only: not forecasts, not investment advice.
 
@@ -8,21 +8,21 @@ _Snapshot generated 2026-10-17 15:35 UTC._
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [Will the new Tesla Roadster have rockets providing propulsion (not extra grip) for additional acceleration?](https://manifold.markets/NathanpmYoung/will-the-new-tesla-roadster-have-ro) | 97% | +66.5 pp | 5,086 |
-| [Will Elon officially announce a flying car by the end of 2026?](https://manifold.markets/strutheo/will-elon-unveil-a-flying-car-by-th) | 59% | +53.2 pp | 3,541 |
-| [Does Claude Opus 5.5 make egregious errors?](https://manifold.markets/dreev/does-claude-opus-55-make-egregious) | 69% | +50.1 pp | 21,455 |
-| [NBA: Will the Detroit Pistons defeat the Boston Celtics by 2 or more points on October 20, 2026?](https://manifold.markets/Web3ICP/nba-will-the-detroit-pistons-defeat) | 68% | +22.8 pp | 709 |
-| [LLM agent is able to reliably beat Slay the Spire 2 before EOY 2027](https://manifold.markets/Technocrat/llm-agent-is-able-to-reliably-beat) | 81% | +20.3 pp | 2,441 |
+| [Will Elon officially announce a flying car by the end of 2026?](https://manifold.markets/strutheo/will-elon-unveil-a-flying-car-by-th) | 72% | +67.1 pp | 3,002 |
+| [Does Claude Opus 5.5 make egregious errors?](https://manifold.markets/dreev/does-claude-opus-55-make-egregious) | 61% | +42.0 pp | 20,194 |
+| [Will a large language model beat a super grandmaster playing chess by EOY 2028?](https://manifold.markets/MP/will-a-large-language-models-beat-a) | 65% | +10.0 pp | 3,499 |
+| [Will Troy Jackson get 50% or more in the first round of the Maine senate election?](https://manifold.markets/Jack1/will-troy-jackson-get-50-or-more-in) | 55% | +7.0 pp | 1,930 |
+| [Will a Democrat win the Ohio Senate special election?](https://manifold.markets/SemioticRivalry/if-jd-vances-senate-seat-opens-up-w) | 65% | +3.0 pp | 3,946 |
 
 ## Biggest fallers (7 days)
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [Bitcoin 100k before Election day?](https://manifold.markets/BillClintonBubba/bitcoin-100k-before-election-day) | 2% | -48.0 pp | 1,035 |
-| [Will my friend get a partner at or before HMMT November 2026?](https://manifold.markets/admit/will-my-friend-get-a-partner-by-hmm) | 4% | -46.2 pp | 1,530 |
-| [Will Anthropic have a higher market cap than SpaceX after both IPO?](https://manifold.markets/Simon74fe/will-anthropic-have-a-higher-market-sh9tNdntql) | 46% | -19.3 pp | 2,750 |
-| [Will California legalise sports betting by the end of 2026?](https://manifold.markets/prezlus/will-california-legalise-sports-bet) | 7% | -14.9 pp | 1,798 |
-| [Will there be a serious attempt by the GOP to overturn the election?](https://manifold.markets/JimAusman/will-there-be-a-serious-attempt-by) | 38% | -12.3 pp | 6,657 |
+| [Bitcoin 100k before Election day?](https://manifold.markets/BillClintonBubba/bitcoin-100k-before-election-day) | 2% | -48.0 pp | 1,668 |
+| [Will my friend get a partner at or before HMMT November 2026?](https://manifold.markets/admit/will-my-friend-get-a-partner-by-hmm) | 4% | -46.2 pp | 1,500 |
+| [Will a privately-held company ever become the most valuable in the world?](https://manifold.markets/spiderduckpig/will-a-privatelyheld-company-ever-b) | 20% | -30.0 pp | 369 |
+| [Will building datacenters in the US be much more difficult by mid-2029?](https://manifold.markets/JonasVollmer/will-building-datacenters-in-the-us) | 27% | -22.5 pp | 500 |
+| [Will there be a serious attempt by the GOP to overturn the election?](https://manifold.markets/JimAusman/will-there-be-a-serious-attempt-by) | 32% | -17.7 pp | 9,792 |
 
 ---
 Data: Manifold Markets (https://manifold.markets), public API.
