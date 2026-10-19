@@ -1,6 +1,6 @@
 # What moved this week
 
-_Snapshot generated 2026-10-18 20:44 UTC._
+_Snapshot generated 2026-10-19 04:41 UTC._
 
 > Play-money prediction data from Manifold Markets (MANA, not real money). Reference/demo data only: not forecasts, not investment advice.
 
@@ -8,21 +8,21 @@ _Snapshot generated 2026-10-18 20:44 UTC._
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [Will Tesla announce they are working on a flying car by 2030?](https://manifold.markets/JamesGrugett/will-tesla-announce-they-are-workin) | 87% | +55.9 pp | 1,131 |
-| [Will Elon officially announce a flying car by the end of 2026?](https://manifold.markets/strutheo/will-elon-unveil-a-flying-car-by-th) | 52% | +46.8 pp | 2,847 |
-| [🇫🇷🪧 Will France report 300,000+ protesters on at least 1 of the next 2 Saturdays (Oct 24 or Oct 31, 2026)?](https://manifold.markets/CheerForgeAdmin/-will-france-report-300000-proteste) | 64% | +14.0 pp | 289 |
+| [Does Claude Opus 5.5 make egregious errors?](https://manifold.markets/dreev/does-claude-opus-55-make-egregious) | 62% | +45.1 pp | 3,094 |
+| [Will a chatbot read sheet music before 2027?](https://manifold.markets/kenakofer/will-a-chatbot-read-sheet-music-bef) | 56% | +25.4 pp | 1,321 |
 | [Are LLMs capable of reaching AGI?](https://manifold.markets/IsaacKing/are-llms-capable-of-reaching-agi) | 59% | +5.0 pp | 1,086 |
-| [Will Troy Jackson get 50% or more in the first round of the Maine senate election?](https://manifold.markets/Jack1/will-troy-jackson-get-50-or-more-in) | 53% | +3.0 pp | 7,108 |
+| [Will Abdul El Sayed win the primary and general for senate in Michigan?](https://manifold.markets/Jack1/will-abdul-el-sayed-win-the-primary) | 74% | +5.0 pp | 11,218 |
+| [Will Miles Brundage win his bet with Gary Marcus?](https://manifold.markets/dreev/will-miles-brundage-win-his-bet-wit) | 42% | +2.1 pp | 960 |
 
 ## Biggest fallers (7 days)
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [Bitcoin 100k before Election day?](https://manifold.markets/BillClintonBubba/bitcoin-100k-before-election-day) | 2% | -48.0 pp | 651 |
-| [Bitcoin $87,500 in October 2026?](https://manifold.markets/Jack1/bitcoin-87500-in-october-2026) | 23% | -35.0 pp | 731 |
-| [Will Team Bardiani start the 2027 Giro d'Italia?](https://manifold.markets/Eliza/will-team-bardiani-start-the-2027-g) | 31% | -33.1 pp | 745 |
-| [Is there a genetic contribution of at least 50% to the black/white IQ gap in 2023? [Resolves to the popular consensus in 2060]](https://manifold.markets/IsaacKing/is-there-a-genetic-contribution-of) | 40% | -17.0 pp | 1,331 |
-| [Will there be a serious attempt by the GOP to overturn the election?](https://manifold.markets/JimAusman/will-there-be-a-serious-attempt-by) | 34% | -15.7 pp | 6,447 |
+| [Bitcoin 100k before Election day?](https://manifold.markets/BillClintonBubba/bitcoin-100k-before-election-day) | 2% | -48.0 pp | 600 |
+| [🇺🇸📉 Will the US Federal Reserve cut interest rates at its October 2026 meeting?](https://manifold.markets/CheerForgeAdmin/-will-the-us-federal-reserve-cut-in) | 4% | -45.8 pp | 382 |
+| [Will the execution of Nidal Malik Hasan be livestreamed by the end of 2027?](https://manifold.markets/strutheo/will-the-execution-of-nidal-malik-h) | 4% | -35.0 pp | 299 |
+| [Bitcoin $87,500 in October 2026?](https://manifold.markets/Jack1/bitcoin-87500-in-october-2026) | 25% | -32.6 pp | 650 |
+| [Will Team Bardiani start the 2027 Giro d'Italia?](https://manifold.markets/Eliza/will-team-bardiani-start-the-2027-g) | 20% | -30.1 pp | 1,245 |
 
 ---
 Data: Manifold Markets (https://manifold.markets), public API.
