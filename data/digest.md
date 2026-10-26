@@ -1,6 +1,6 @@
 # What moved this week
 
-_Snapshot generated 2026-10-26 13:03 UTC._
+_Snapshot generated 2026-10-26 22:40 UTC._
 
 > Play-money prediction data from Manifold Markets (MANA, not real money). Reference/demo data only: not forecasts, not investment advice.
 
@@ -8,21 +8,21 @@ _Snapshot generated 2026-10-26 13:03 UTC._
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [Brazil 2026 Election: Will Lula get more votes than in 2022 (59,563,912) in any round?](https://manifold.markets/Brierbr/brazil-2026-will-lula-get-more-vote) | 99% | +81.4 pp | 1,332 |
-| [🇧🇷 President in Jan 2027 is Lula, or whoever he endorses / Lula ou seu indicado é presidente em janeiro de 2027](https://manifold.markets/BrunoParga/-2026-winner-is-lula-or-whoever-he) | 99% | +78.0 pp | 203,574 |
-| [Will element 119 be discovered by the end of 2030?](https://manifold.markets/Lukats2/will-element-119-be-discovered-by-2) | 56% | +20.7 pp | 352 |
-| [Will BLS report more than 275,600 data scientist jobs in the United States in 2030?](https://manifold.markets/AdamBraff/will-bls-report-more-than-275600-da) | 68% | +18.0 pp | 552 |
-| [Will Trump claim the Brazilian election was rigged?](https://manifold.markets/SG/will-trump-claim-the-brazilian-elec) | 62% | +12.3 pp | 1,364 |
+| [🇧🇷 President in Jan 2027 is Lula, or whoever he endorses / Lula ou seu indicado é presidente em janeiro de 2027](https://manifold.markets/BrunoParga/-2026-winner-is-lula-or-whoever-he) | 99% | +78.0 pp | 187,797 |
+| [Will Trump claim the Brazilian election was rigged?](https://manifold.markets/SG/will-trump-claim-the-brazilian-elec) | 78% | +28.0 pp | 2,229 |
+| [Anthropic IPOs in 2026 AND has a closing market cap above 1.8trillion?](https://manifold.markets/Jack1/anthropic-ipos-in-2026-and-has-a-cl) | 67% | +20.2 pp | 1,221 |
+| [Will the worst day in cyber security in 2026 be after 10/21/2026?](https://manifold.markets/ZviMowshowitz/will-the-worst-day-in-cyber-securit) | 56% | +6.2 pp | 459 |
+| [US Average DIESEL Price Is $6.000 or more on Election Day 2026?](https://manifold.markets/Jack1/us-average-diesel-price-is-6000-or) | 97% | +5.6 pp | 2,500 |
 
 ## Biggest fallers (7 days)
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [Will Muse rank #1 in App Store (iPhone) on November 1st 2026](https://manifold.markets/Mochi/will-muse-rank-1-in-app-store-iphon-0dAdQUQZyA) | 23% | -35.4 pp | 315 |
-| [Bitcoin $87,500 in October 2026?](https://manifold.markets/Jack1/bitcoin-87500-in-october-2026) | 3% | -31.8 pp | 5,108 |
-| [Bougainville an independent country by 2028?](https://manifold.markets/thepurplebull/bougainville-an-independent-country) | 28% | -29.8 pp | 752 |
-| [Will a moving mirror produce light that propagates below c in vacuum by the end of 2030?](https://manifold.markets/matterasmachine/will-a-moving-mirror-produce-light) | 21% | -29.2 pp | 1,193 |
-| [Will an AI agent cause a plane crash in 2026?](https://manifold.markets/a_l_e_x/will-an-ai-agent-cause-a-plane-cras) | 3% | -26.9 pp | 4,413 |
+| [Ethan Klein's affair is a cover for something worse.](https://manifold.markets/Technocrat/ethan-kleins-affair-is-a-cover-for) | 5% | -44.7 pp | 32,330 |
+| [Will a moving mirror produce light that propagates below c in vacuum by the end of 2030?](https://manifold.markets/matterasmachine/will-a-moving-mirror-produce-light) | 20% | -30.0 pp | 1,115 |
+| [Will an AI agent cause a plane crash in 2026?](https://manifold.markets/a_l_e_x/will-an-ai-agent-cause-a-plane-cras) | 3% | -27.0 pp | 1,912 |
+| [Bougainville an independent country by 2028?](https://manifold.markets/thepurplebull/bougainville-an-independent-country) | 31% | -26.9 pp | 1,145 |
+| [Bitcoin $87,500 in October 2026?](https://manifold.markets/Jack1/bitcoin-87500-in-october-2026) | 3% | -23.6 pp | 2,584 |
 
 ---
 Data: Manifold Markets (https://manifold.markets), public API.
