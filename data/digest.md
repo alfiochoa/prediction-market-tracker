@@ -1,6 +1,6 @@
 # What moved this week
 
-_Snapshot generated 2026-10-27 22:14 UTC._
+_Snapshot generated 2026-10-28 05:42 UTC._
 
 > Play-money prediction data from Manifold Markets (MANA, not real money). Reference/demo data only: not forecasts, not investment advice.
 
@@ -8,21 +8,21 @@ _Snapshot generated 2026-10-27 22:14 UTC._
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [Apple releases a touchscreen Macbook by the end of 2026?](https://manifold.markets/IsaacKing/will-any-macbook-have-a-touchscreen) | 90% | +32.0 pp | 4,052 |
-| [Will Benjamin Netanyahu still be Prime Minister at the end of 2026?](https://manifold.markets/afekelbaz/will-benjamin-netanyahu-still-be-pr) | 68% | +18.1 pp | 604 |
-| [LLM agent is able to reliably beat Slay the Spire 2 before EOY 2027](https://manifold.markets/Technocrat/llm-agent-is-able-to-reliably-beat) | 92% | +10.7 pp | 22,246 |
-| [All Millennium Prize Problems solved before 2030?](https://manifold.markets/SG/all-millennium-prize-problem-solved) | 39% | +7.6 pp | 2,264 |
-| [Will Planet 9's existence be verified by 2030?](https://manifold.markets/Isaac228c/will-planet-9s-existence-be-verifie) | 27% | +6.7 pp | 701 |
+| [Will any game of the 2026 World Series go to extra innings?](https://manifold.markets/sun/will-any-game-of-the-2026-world-ser) | 99% | +49.0 pp | 1,241 |
+| [Apple releases a touchscreen Macbook by the end of 2026?](https://manifold.markets/IsaacKing/will-any-macbook-have-a-touchscreen) | 92% | +34.2 pp | 5,002 |
+| [Vote rigging scandal in UK, CA, Germany, Netherlands, Norway, DK, Sweden, Finland, or Ireland before 2027?](https://manifold.markets/asmith/vote-rigging-scandal-in-uk-ca-germa) | 56% | +30.0 pp | 560 |
+| [Will US unemployment rate rise more than North Carolina unemployment rate in September?](https://manifold.markets/SpeaksForTrees/will-us-unemployment-rate-rise-more) | 99% | +29.5 pp | 1,077 |
+| [Will any AI consistently get a perfect score on Maxim Lott's offline IQ test by the end of 2027?](https://manifold.markets/IsaacKing/will-any-ai-consistently-get-a-perf) | 92% | +22.0 pp | 1,873 |
 
 ## Biggest fallers (7 days)
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [Is the Strong Exponential Time Hypothesis true?](https://manifold.markets/Floffinou/is-the-strong-exponential-time-hypo) | 2% | -50.6 pp | 10,834 |
-| [Bitcoin $87,500 in October 2026?](https://manifold.markets/Jack1/bitcoin-87500-in-october-2026) | 3% | -29.1 pp | 546 |
-| [Will an AI agent cause a plane crash in 2026?](https://manifold.markets/a_l_e_x/will-an-ai-agent-cause-a-plane-cras) | 2% | -27.5 pp | 1,565 |
-| [GPT-6.1+ Astra released in October?](https://manifold.markets/Bayesian/gpt61-astra-released-in-october) | 9% | -10.7 pp | 4,159 |
-| [Will Republicans win the Senate in the 2026 elections?](https://manifold.markets/AndrewG/will-republicans-win-the-senate-in-738388924521) | 30% | -4.9 pp | 9,454 |
+| [Will someone with the surname Bolsonaro win the 2030 Brazil Presidental election?](https://manifold.markets/Jack1/will-someone-with-the-surname-bolso-O29qtN5SL2) | 14% | -11.3 pp | 1,050 |
+| [[ACX 2026] Will Benjamin Netanyahu cease to be Prime Minister of Israel during 2026?](https://manifold.markets/DaftPunkRock/acx-2026-will-benjamin-netanyahu-ce) | 28% | -8.5 pp | 3,670 |
+| [Will the world series go to game 7 in 2026?](https://manifold.markets/strutheo/will-the-world-series-go-to-game-7-0cUOyQAd5P) | 15% | -7.9 pp | 630 |
+| [GPT-6.1+ Astra released in October?](https://manifold.markets/Bayesian/gpt61-astra-released-in-october) | 12% | -7.3 pp | 4,742 |
+| [Will the Republicans win the 2026 Kansas Governor election?](https://manifold.markets/Jack1/will-the-republicans-win-the-2026-k) | 71% | -5.1 pp | 3,708 |
 
 ---
 Data: Manifold Markets (https://manifold.markets), public API.
