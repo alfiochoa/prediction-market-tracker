@@ -1,6 +1,6 @@
 # What moved this week
 
-_Snapshot generated 2026-11-09 06:28 UTC._
+_Snapshot generated 2026-11-09 22:22 UTC._
 
 > Play-money prediction data from Manifold Markets (MANA, not real money). Reference/demo data only: not forecasts, not investment advice.
 
@@ -8,21 +8,21 @@ _Snapshot generated 2026-11-09 06:28 UTC._
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [Before 2027, will a frontier AI model achieve an AA-Omniscience hallucination rate below 5%?](https://manifold.markets/JaundicedBaboon/before-2027-will-a-frontier-ai-mode) | 88% | +71.4 pp | 3,408 |
-| [If Labour wins the 2026 NZ general election, they are dependent on support from Te Pāti Māori to govern](https://manifold.markets/B/if-labour-wins-the-2026-nz-general) | 95% | +28.6 pp | 4,398 |
-| [Will Jensen Huang cease to be CEO of Nvidia before 2030?](https://manifold.markets/cash/will-jensen-huang-cease-to-be-ceo-o-244ce3a37885) | 41% | +23.8 pp | 1,706 |
-| ["Avengers: Doomsday" breaks the record for the biggest opening weekend of all time?](https://manifold.markets/Ziddletwix/avengers-doomsday-breaks-the-record) | 62% | +22.2 pp | 1,298 |
-| [Will 2026 turnout exceed 2022? (US midterms, percentage)](https://manifold.markets/EvanDaniel/will-2026-turnout-exceed-2022-us-mi) | 96% | +13.0 pp | 3,177 |
+| [Before 2027, will a frontier AI model achieve an AA-Omniscience hallucination rate below 5%?](https://manifold.markets/JaundicedBaboon/before-2027-will-a-frontier-ai-mode) | 87% | +69.7 pp | 1,136 |
+| [Does Pangram make egregious errors?](https://manifold.markets/spiderduckpig/does-pangram-make-egregious-errors) | 91% | +40.8 pp | 3,267 |
+| [US Average Gas Price Is $4.000 or less on any day in November 2026?](https://manifold.markets/Jack1/us-average-gas-price-is-4000-or-les) | 99% | +35.7 pp | 8,879 |
+| [Will SP500 close at 7500.00 or more between Nov 9 and Nov 30 2026](https://manifold.markets/Jack1/will-sp500-close-at-750000-or-more) | 83% | +32.7 pp | 1,326 |
+| [Will Jensen Huang cease to be CEO of Nvidia before 2030?](https://manifold.markets/cash/will-jensen-huang-cease-to-be-ceo-o-244ce3a37885) | 40% | +23.0 pp | 2,299 |
 
 ## Biggest fallers (7 days)
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [100,000 Mana Boss Battle](https://manifold.markets/JiaheLiu/100000-mana-boss-battle) | 4% | -46.5 pp | 14,314 |
-| [T1 wins League of Legends Worlds 2026?](https://manifold.markets/Fedor/t1-wins-league-of-legends-worlds-20) | 0% | -22.0 pp | 2,498 |
-| [Will T1 win the Worlds again this year?](https://manifold.markets/Yorhan/will-t1-win-the-worlds-again-this-y) | 1% | -20.3 pp | 1,367 |
-| [Another yokozuna in sumo by end of 2026?](https://manifold.markets/Yakushi12345/another-yokozuna-in-sumo-by-end-of) | 3% | -19.7 pp | 1,593 |
-| [Will Astra 6.1+ be released this week (by November 8, 2026)?](https://manifold.markets/jimbot/will-astra-61-be-released-this-week) | 1% | -19.0 pp | 1,285 |
+| [Will Lauren Boebert be re-elected to the House in 2026? [Colorado 4]](https://manifold.markets/HillaryClinton/will-lauren-boebert-be-reelected-to-QEZqgqIzEs) | 1% | -49.0 pp | 2,314 |
+| [Will John Kiriakou get his Angry Birds streak restored by December 31, 2026?](https://manifold.markets/TomNewton/will-john-kiriakou-get-his-angry-bi) | 8% | -33.9 pp | 1,025 |
+| [Will bitcoin rise to 105k before crude oil falls below $80 per barrel?](https://manifold.markets/apol/will-bitcoin-rise-to-105k-before-cr) | 23% | -26.8 pp | 971 |
+| [Will T1 win the Worlds again this year?](https://manifold.markets/Yorhan/will-t1-win-the-worlds-again-this-y) | 1% | -20.4 pp | 1,343 |
+| [Will Prince William be crowned King by the end of 2026?](https://manifold.markets/Predictor/will-prince-william-be-crowned-king-922d619271db) | 1% | -12.6 pp | 3,297 |
 
 ---
 Data: Manifold Markets (https://manifold.markets), public API.
