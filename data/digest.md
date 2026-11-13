@@ -1,6 +1,6 @@
 # What moved this week
 
-_Snapshot generated 2026-11-13 06:45 UTC._
+_Snapshot generated 2026-11-13 19:42 UTC._
 
 > Play-money prediction data from Manifold Markets (MANA, not real money). Reference/demo data only: not forecasts, not investment advice.
 
@@ -8,21 +8,21 @@ _Snapshot generated 2026-11-13 06:45 UTC._
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [Will Anthropic IPO by Nov 20?](https://manifold.markets/EriccNsnA/will-anthropic-ipo-by-nov-20) | 94% | +60.0 pp | 22,072 |
-| [Jensen Huang announces leaving as Nvidia CEO by the end of November](https://manifold.markets/rg26/jensen-huang-announces-leaving-as-n) | 97% | +47.0 pp | 11,748 |
-| [1. Anthropic will go public. OpenAI will not.](https://manifold.markets/HenriThunberg/1-anthropic-will-go-public-openai-w) | 94% | +29.5 pp | 3,638 |
-| [Another Fed Rate Hike in 2026?](https://manifold.markets/Jack1/another-fed-rate-hike-in-2026) | 96% | +25.3 pp | 1,978 |
-| [Jensen Huang divorced by EOY 2030?](https://manifold.markets/whloooomer/jensen-huang-divorced-by-eoy-2030) | 60% | +10.1 pp | 1,946 |
+| [Will Anthropic IPO by Nov 20?](https://manifold.markets/EriccNsnA/will-anthropic-ipo-by-nov-20) | 93% | +60.1 pp | 12,018 |
+| [Will 2026 be the hottest year on record?](https://manifold.markets/itsTomekK/will-2026-be-the-hottest-year-on-re) | 85% | +37.6 pp | 912 |
+| [Another Fed Rate Hike in 2026?](https://manifold.markets/Jack1/another-fed-rate-hike-in-2026) | 97% | +18.6 pp | 976 |
+| [Bitcoin below $55K in 2026?](https://manifold.markets/predyx_markets/bitcoin-below-55k-in-2026) | 24% | +13.1 pp | 5,855 |
+| [Will the 2026 Time Person of the Year be a single person?](https://manifold.markets/Jack1/will-the-2026-time-person-of-the-ye) | 51% | +10.6 pp | 481 |
 
 ## Biggest fallers (7 days)
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [Will Jensen Huang return as NVIDIA CEO by the end of 2026?](https://manifold.markets/bessarabov/jensen-huang-nvidia-ceo-return-2026) | 9% | -40.7 pp | 3,620 |
-| [Pete Hegseth out by EOY?](https://manifold.markets/Ziddletwix/pete-hegseth-out-by-eoy) | 13% | -37.1 pp | 2,597 |
-| [Will Anthropic's market cap on the day of their IPO be above 2 trillion?](https://manifold.markets/BenAybar/will-anthropics-market-cap-on-the-o) | 9% | -31.5 pp | 1,077 |
-| [Will Nvidia have the highest market cap at the end of 2026?](https://manifold.markets/ManiPart/will-nvidia-have-the-highest-market-U0csqsuzPh) | 19% | -28.6 pp | 504 |
-| [Jensen Huang's affair is a cover for something worse.](https://manifold.markets/Technocrat/jensen-huangs-affair-is-a-cover-for) | 33% | -17.3 pp | 17,330 |
+| [Will Jensen Huang return as NVIDIA CEO by the end of 2026?](https://manifold.markets/bessarabov/jensen-huang-nvidia-ceo-return-2026) | 9% | -41.0 pp | 5,959 |
+| [Will Bitcoin be higher than $77,777 at the end of 2026?](https://manifold.markets/GregF/will-bitcoin-be-higher-than-77777-a) | 20% | -31.1 pp | 1,477 |
+| [Will all Five Eyes countries be governed by red parties before the end of Trump’s second term?](https://manifold.markets/evan/will-all-five-eyes-countries-be-gov) | 17% | -28.6 pp | 690 |
+| [Pete Hegseth out by EOY?](https://manifold.markets/Ziddletwix/pete-hegseth-out-by-eoy) | 12% | -28.0 pp | 2,344 |
+| [Jensen Huang goes to prison before 2027](https://manifold.markets/EvanWang11j3/jensen-huang-goes-to-prison-before) | 4% | -21.4 pp | 4,577 |
 
 ---
 Data: Manifold Markets (https://manifold.markets), public API.
