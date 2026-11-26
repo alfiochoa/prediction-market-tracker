@@ -1,6 +1,6 @@
 # What moved this week
 
-_Snapshot generated 2026-11-25 21:42 UTC._
+_Snapshot generated 2026-11-26 08:17 UTC._
 
 > Play-money prediction data from Manifold Markets (MANA, not real money). Reference/demo data only: not forecasts, not investment advice.
 
@@ -8,21 +8,21 @@ _Snapshot generated 2026-11-25 21:42 UTC._
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [Will Captopril significantly extend the lifespan of UM-HET3 mice tested by the NIA’s Interventions Testing Program? (Cohort 13: C2017)](https://manifold.markets/KamilPabis/will-captopril-significantly-extend) | 93% | +61.4 pp | 2,022 |
-| [Will P vs NP be resolved before man lands on Mars?](https://manifold.markets/warty/will-p-vs-np-be-resolved-before-man) | 83% | +34.2 pp | 1,511 |
-| [P != NP  (will it be proven by April 2027)](https://manifold.markets/LarsDoucet/p-np-537cbc88aa90) | 35% | +28.0 pp | 1,342 |
-| [Will more than 150k tech layoffs occur in 2026?](https://manifold.markets/spiderduckpig/will-more-than-150k-tech-layoffs-oc) | 98% | +25.9 pp | 1,250 |
-| [Will GTA VI generate more than $4.5 billion in revenue during its first week?](https://manifold.markets/andrew91572/will-gta-vi-generate-more-than-45-b) | 75% | +25.3 pp | 9,830 |
+| [Will P vs NP be resolved before man lands on Mars?](https://manifold.markets/warty/will-p-vs-np-be-resolved-before-man) | 84% | +35.1 pp | 1,147 |
+| [Is P vs NP solvable?](https://manifold.markets/ItsMe/is-p-vs-np-solvable) | 93% | +21.7 pp | 1,000 |
+| [Bitcoin below $55K in 2026?](https://manifold.markets/predyx_markets/bitcoin-below-55k-in-2026) | 55% | +21.0 pp | 7,158 |
+| [Will there be at least 2 NOTAs at the SSE Riga SA Board elections?](https://manifold.markets/ArtisLipsa/will-there-be-at-least-2-notas-at-t-SEqd6hU5Ct) | 66% | +15.8 pp | 8,476 |
+| [Will the WTI Crude Oil Spot Price be above $83.50 on November 27, 2026?](https://manifold.markets/ShaneBo/will-the-wti-crude-oil-spot-price-b-Nh90sIt0t8) | 63% | +13.0 pp | 1,066 |
 
 ## Biggest fallers (7 days)
 
 | Market | Now | 7d change | 24h volume (MANA) |
 |---|---|---|---|
-| [Will exactly 6 of the 7 Millennium problems (all except P vs NP) be solved by end of year 2027?](https://manifold.markets/DottedCalculator/will-exactly-6-of-the-7-millennium) | 11% | -39.0 pp | 6,506 |
-| [Will Donald Trump say that Jews are bad by the end of the year](https://manifold.markets/janperlikowski/will-donald-trump-say-that-jews-are) | 15% | -35.1 pp | 1,429 |
-| [Will Ro Khanna announce a presidential run before 2027](https://manifold.markets/Jack1/will-ro-khanna-announce-a-president) | 11% | -23.3 pp | 1,020 |
-| [[ACX 2026] Will the S&P 500 close above 7,500 at the end of 2026?](https://manifold.markets/DaftPunkRock/acx-2026-will-the-sp-500-close-abov) | 29% | -22.9 pp | 2,666 |
-| [Apple market cap 6x Anthropic before 2028](https://manifold.markets/MachiNi/apple-market-cap-6x-anthropic-befor) | 32% | -18.0 pp | 4,820 |
+| [Will Donald Trump say that Jews are bad by the end of the year](https://manifold.markets/janperlikowski/will-donald-trump-say-that-jews-are) | 13% | -36.8 pp | 1,604 |
+| [Will Donald Trump comment on the Riemann hypothesis?](https://manifold.markets/ZenSpam/will-donald-trump-comment-on-the-ri) | 14% | -36.0 pp | 1,057 |
+| [Trump impeached, convicted, and removed within six months of approval below 35%?](https://manifold.markets/BlueDragon/trump-impeached-convicted-and-remov) | 1% | -20.0 pp | 8,486 |
+| [[ACX 2026] Will the S&P 500 close above 7,500 at the end of 2026?](https://manifold.markets/DaftPunkRock/acx-2026-will-the-sp-500-close-abov) | 37% | -16.1 pp | 3,448 |
+| [Will the S&P 500 close above 7883.34 on December 31, 2026?](https://manifold.markets/Plant/will-the-sp-500-close-above-788334) | 5% | -14.0 pp | 1,042 |
 
 ---
 Data: Manifold Markets (https://manifold.markets), public API.
